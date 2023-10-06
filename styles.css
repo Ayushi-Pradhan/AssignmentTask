@@ -1,0 +1,47 @@
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the header */
+header {
+    background-color: #2f6e98;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Style the navigation */
+nav ul {
+    list-style-type: none;
+    text-align: center;
+    background-color: #a7b423;
+    padding: 10px;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+/* Style the sections */
+section {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+}
+
+/* Style the footer */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #52b33a;
+    color: black;
+}
